@@ -17,7 +17,7 @@ apt -qq update
 ### Install Package Build Dependencies #2
 
 apt -qq -yy install --no-install-recommends \
-	mauikit-calendar-git \
+	mauikit-filebrowsing-git \
 	mauikit-git
 
 ### Download Source
