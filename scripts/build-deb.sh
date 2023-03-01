@@ -22,7 +22,7 @@ apt -qq -yy install --no-install-recommends \
 
 ### Download Source
 
-git clone --depth 1 --branch $AGENDA_BRANCH https://invent.kde.org/maui/arca.git
+git clone --depth 1 --branch $ARCA_BRANCH https://invent.kde.org/maui/arca.git
 
 ### Compile Source
 
