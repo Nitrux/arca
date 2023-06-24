@@ -66,7 +66,7 @@ checkinstall -D -y \
 	--pakdir=. \
 	--maintainer=uri_herrera@nxos.org \
 	--provides=arca \
-	--requires="libc6,libkf5archive5,libkf5coreaddons5,libkf5i18n5,libkf5kiocore5,libqt5core5a,mauikit-filebrowsing-git \(\>= 2.2.2+git\),mauikit-git \(\>= 2.2.2+git\)" \
+	--requires="libc6,libkf5archive5,libkf5coreaddons5,libkf5i18n5,libkf5kiocore5,libqt5core5a,mauikit-filebrowsing-git \(\>= 3.0.0+git\),mauikit-git \(\>= 3.0.0+git\)" \
 	--nodoc \
 	--strip=no \
 	--stripso=yes \
