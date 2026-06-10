@@ -63,7 +63,7 @@ checkinstall -D -y \
     --pakdir=. \
     --maintainer=uri_herrera@nxos.org \
     --provides=agenda \
-    --requires="mauikit \(\>= 4.0.3\),mauikit-filebrowser (\>= 4.0.3\),mauikit-archiver (\>= 4.0.3\)" \
+    --requires="mauikit \(\>= 4.0.4\),mauikit-filebrowser (\>= 4.0.4\),mauikit-archiver (\>= 4.0.4\)" \
     --nodoc \
     --strip=no \
     --stripso=yes \
